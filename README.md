@@ -1,2 +1,3 @@
 # Olá, Mundo!
- Repostório teste do curso do Gustavo Guanabara.
+Repostório teste do curso do Gustavo Guanabara.
+Teste da aula de GIT.
